@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationDIalogs</string>
+    <string name="dialog">DIALOG</string>
+    <string name="helloWorld">Hello World!</string>
+</resources>
